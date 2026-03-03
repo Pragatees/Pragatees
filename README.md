@@ -7,9 +7,6 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Multi-Agent+%7C+RAG+%7C+GenAI+Expert;🚀+Turning+Ideas+into+Production+AI;⚡+LLaMA+%7C+Gemini+%7C+GROQ+%7C+LangChain;🌐+Full+Stack+%2B+AI+%3D+Unlimited+Potential" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>

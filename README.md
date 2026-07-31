@@ -1,16 +1,28 @@
 <div align="center">
 
-<!-- CUSTOM BANNER (replaces the old text-based header) -->
-<img src="./banner.png" width="100%" alt="Pragateesh G Banner"/>
+<!-- CUSTOM BANNER (hosted on Google Drive) -->
+<img src="https://drive.google.com/uc?export=view&id=1Tj-uYZPhA3-Tt-9DsUZRbi626XE5P5ex" width="100%" alt="Pragateesh G Banner"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;GenAI+%2F+RAG+%2F+Multi-Agent+Systems+Builder;Full-Stack+Developer+%7C+Spring+Boot+%2B+React;Turning+LLMs+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/🌍%20India-1e1e2e?style=for-the-badge&labelColor=1e1e2e" />
-  <a href="mailto:hariparageesh7@gmail.com">
+  <a href="mailto:haripragateesh7@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://pragateeshg-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/🎯%20Open%20to%20AI%20%26%20FullStack%20Roles-6366f1?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Pragatees&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
@@ -188,6 +200,54 @@ class PragateeshG:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Year | Highlight |
+|:--|:--|:--:|:--|
+| 🤖 Generative AI Intern | Global Knowledge | 2024 | Built a production-style RAG system combining OCR, semantic chunking, ChromaDB & Gemini for long-document Q&A |
+| 🌐 MERN Stack Intern | RV Techlearn | 2024 | Built a unified coding-stats dashboard with an AI candidate-comparison engine across platforms |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1630%20rating%20%7C%20590%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeChef-1244%20rating%20%7C%20200%2B%20solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/HackerRank-3★%20Python%20%7C%202★%20Java%2FC%2FSQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SAP%20Hackathon-Offline%20Round%20(2x)-0FAAFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databricks-Academy%20Accredited-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Also certified in Python for Data Science (NPTEL) · MongoDB (ICT Academy) · SQL Intermediate (HackerRank) · Java Programming (Udemy) · DSA in C/C++ (Udemy) · Python Crash Course (Google/Coursera)</sub>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Years | Score |
+|:--|:--|:--:|:--:|
+| B.Tech, AI & Data Science | Sri Eshwar College of Engineering | 2022 – 2026 | CGPA 8.1 |
+| HSC | SS Govt. Boys Higher Secondary School | 2021 – 2022 | 85.17% |
+| SSLC | SS Govt. Boys Higher Secondary School | 2019 – 2020 | 87.00% |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -229,6 +289,22 @@ class PragateeshG:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📬 Reach Out
+
+<div align="center">
+
+  <a href="mailto:haripragateesh7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-haripragateesh7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://pragateeshg-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-pragateeshg--portfolio.netlify.app-FF5733?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## ❤️ Support
 
 <div align="center">
@@ -237,6 +313,10 @@ class PragateeshG:
   </a>
   <br/><br/>
   <i>⭐ If any of this was useful, a star on the repo goes a long way!</i>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+intelligent+together." alt="Footer Typing SVG" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>

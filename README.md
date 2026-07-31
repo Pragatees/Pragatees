@@ -1,20 +1,16 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PRAGATEESH%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Multi-Agent%20Systems%20%7C%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn&fontAlign=50"/>
+<!-- CUSTOM BANNER (replaces the old text-based header) -->
+<img src="./banner.png" width="100%" alt="Pragateesh G Banner"/>
 
-</div>
-
-<!-- TYPING ANIMATION -->
-<div align="center">
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🌍%20India-1e1e2e?style=for-the-badge&labelColor=1e1e2e" />
-  <a href="mailto:pragateesh.g2022ai-ds@sece.ac.in">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hariparageesh7@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/🎯%20Open%20to%20AI%20%26%20FullStack%20Roles-6366f1?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Pragatees&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
@@ -22,9 +18,9 @@
 
 ---
 
-<!-- SOCIAL LINKS WITH ANIMATED BADGES -->
+<!-- SOCIAL LINKS -->
 <div align="center">
-  <h2>🌐 Connect With Me</h2>
+  <h2>🌐 Let's Connect</h2>
   <a href="https://github.com/Pragatees">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -48,35 +44,34 @@
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME SECTION WITH SIDE GIF -->
+<!-- ABOUT -->
 <table>
 <tr>
 <td width="60%">
 
-## 👨‍💻 About Me
+## 👨‍💻 A Little About Me
 
 ```python
 class PragateeshG:
     name      = "Pragateesh G"
-    role      = "AI Engineer & Full Stack Developer"
-    location  = "India 🇮🇳"
-    
-    expertise = [
+    role      = "AI Engineer & Full-Stack Developer"
+    based_in  = "India 🇮🇳"
+
+    focus_areas = [
         "Multi-Agent AI Systems",
         "Retrieval-Augmented Generation (RAG)",
         "Generative AI & LLM Integration",
-        "Scalable Full Stack Web Apps",
+        "Scalable Full-Stack Applications",
     ]
-    
-    currently_building = "SmartReport AI 🧠"
-    
-    motto = "Build AI that actually works in the real world."
-    
-    def greet(self):
-        return "Let's build something intelligent! 🚀"
+
+    currently_shipping = "Life OS 🧠"
+
+    philosophy = "AI is only useful if it works outside the demo."
+
+    def say_hi(self):
+        return "Always up for building something intelligent 🚀"
 ```
 
 </td>
@@ -86,25 +81,23 @@ class PragateeshG:
 </tr>
 </table>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Core Expertise
+## 🧠 Where I Add the Most Value
 
 <div align="center">
 
-| 🤖 Multi-Agent Systems | 📚 RAG Architectures | 🧾 Document Intelligence |
+| 🤖 Multi-Agent Orchestration | 📚 RAG Pipelines | 🧾 Document Intelligence |
 |:---:|:---:|:---:|
-| Designing and orchestrating autonomous AI agents with specialized roles and memory | Building robust retrieval pipelines with FAISS & ChromaDB for grounded LLM outputs | OCR + Vector DB pipelines for intelligent parsing of complex documents |
-| 🧠 LLM Integration | ⚡ FastAPI Backend | 🌐 Full Stack |
-| LLaMA · Gemini · GROQ — fine-tuning, prompting, and production deployment | High-performance async APIs with real-time streaming and agent orchestration | React + Node.js SaaS-grade applications, end to end |
+| Building specialized, memory-aware AI agents that collaborate on a task | Grounding LLM answers with FAISS & ChromaDB retrieval for accuracy | Turning messy PDFs and scans into structured, searchable insight |
+| 🧠 LLM Integration | ⚡ High-Performance APIs | 🌐 End-to-End Products |
+| Gemini · Groq/LLaMA 3 — prompting, tuning, and shipping to production | Async FastAPI & Spring Boot services built for real traffic | React / React Native + Node.js apps, from schema to deploy |
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## 🛠️ Tools of the Trade
 
 <div align="center">
 
@@ -132,10 +125,9 @@ class PragateeshG:
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Project — SmartReport AI
+## 🚀 Spotlight Project — Life OS
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header"/>
@@ -145,21 +137,21 @@ class PragateeshG:
 <tr>
 <td>
 
-### 🧠 SmartReport AI — Multi-Agent Framework for Intelligent Document Analysis
+### 🧠 Life OS — AI-Powered Personal Productivity Platform
 
-> A domain-agnostic AI system that reads, understands, and generates insights from any document — automatically.
+> A single intelligent home for your tasks, goals, notes, and daily routines — with an AI that actually reviews your progress.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     SmartReport AI                          │
-│                                                             │
-│  📄 Document ──▶ [Domain Agent] ──▶ Domain Identified       │
-│                       │                                     │
-│                        ──▶ [Insight Agent] ──▶ Key Insights │
-│                       │                                     │
-│                        ──▶ [Suggestion Agent] ──▶ Actions   │
-│                       │                                     │
-│                        ──▶ [RAG Chat Agent] ──▶ Q&A Memory  │
+│                          Life OS                             │
+│                                                               │
+│  📱 React Native App ──▶ [Spring Boot API] ──▶ Secure Auth  │
+│                                │                              │
+│                                 ──▶ [Scheduler Engine] ──▶ Recurring Tasks │
+│                                │                              │
+│                                 ──▶ [AI Review Module] ──▶ Insights & Reports │
+│                                │                              │
+│                                 ──▶ [PostgreSQL] ──▶ 6+ Core Entities │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -167,29 +159,36 @@ class PragateeshG:
 </tr>
 </table>
 
+**🔑 Highlights:**
+- 🔐 **Spring Security + JWT** — role-based auth, email verification, password recovery
+- 🗄️ **Normalized PostgreSQL schema** across Users, Goals, Tasks, Notes, Recurring Tasks & Analytics
+- ⏱️ **Scheduler-driven automation** — recurring tasks & push notifications, decoupled from the request cycle
+- 📊 **AI-powered daily reviews** — turns raw activity data into personalized insights and recommendations
+- 🔄 **Real-time sync** between mobile client and backend via REST APIs
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧩 More Things I've Built
+
 <div align="center">
 
-| Metric | Result |
-|:---:|:---:|
-| 📈 Retrieval Accuracy | **~91%** |
-| ⚡ Avg Response Time | **~1.3s** |
-| 📊 Improvement over Baseline RAG | **~17%** |
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 📄 **Smart Report AI** | 4-agent pipeline (Identifier → Insightor → Suggestor → Goal-Specified) + RAG chatbot over PDFs | React, FastAPI, Vector DB |
+| 🤖 **JobTrack AI** | Resume parsing, ATS optimization, AI cover letters, application tracking | MERN, Flask, Gemini |
+| ⚖️ **LexiLingua** | Multilingual legal document analyzer with risk scoring & voice assistant | Streamlit, Groq LLaMA-3-70B, OCR |
+| 🔍 **WebExtractIQ** | AI web-content extractor building a searchable knowledge base | Streamlit, Groq Llama, BS4 |
+| 💼 **SkillForgeIQ** | Personal portfolio site with an embedded AI chatbot | React, Tailwind, Gemini, GSAP |
+| 📰 **Voice Tide** | Voice-driven, personalized news delivery | Streamlit, Speech Recognition |
+| ⚽ **Turf Hub** | Sports turf booking platform with real-time availability | MERN |
+| 📝 **Task Manager** | Minimalist CRUD task tracker | MERN |
+| ⌨️ **Type Game** | Typing speed game with live leaderboards | MERN |
 
 </div>
 
-**🔑 Core Agents:**
-- 🔍 **Domain Identification Agent** — Classifies document type automatically
-- 💡 **Insight Generation Agent** — Extracts and synthesizes key data points
-- 🎯 **Suggestion & Recommendation Agent** — Generates actionable next steps
-- 🗺️ **Goal-Oriented Planning Agent** *(Phase 2)* — Long-horizon task planning
-- 💬 **Conversational RAG Chat Agent** — Full memory-backed document Q&A
-- 🗃️ **FAISS Vector Retrieval** — Lightning-fast semantic search
-- 🌐 **Real-time API Integration** — Production-grade FastAPI backend
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragatees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -204,44 +203,40 @@ class PragateeshG:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragatees&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Current Focus
+## 🎯 What I'm Focused On Right Now
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║              2025 ROADMAP & CURRENT FOCUS                ║
+║                   CURRENT ROADMAP                         ║
 ╠══════════════════════════════════════════════════════════╣
-║  🧩  Advanced Agentic AI Systems (LangGraph, CrewAI)     ║
-║  🔗  LangChain & LangGraph Production Pipelines          ║
-║  🎛️  LLM Optimization & Advanced Prompt Engineering      ║
-║  ☁️  Scalable AI SaaS Products on GCP                    ║
-║  🏗️  Production-ready RAG Architectures                  ║
+║  🧩  Advanced Agentic AI (LangGraph, CrewAI)              ║
+║  🔗  Production LangChain / LangGraph pipelines            ║
+║  🎛️  LLM optimization & advanced prompt engineering        ║
+║  ☁️  Scalable AI SaaS products on the cloud                ║
+║  🏗️  Hardened, production-grade RAG architectures          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ❤️ Support My Work
+## ❤️ Support
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
   </a>
   <br/><br/>
-  <i>⭐ If you find my work valuable, star my repositories — it means the world!</i>
+  <i>⭐ If any of this was useful, a star on the repo goes a long way!</i>
 </div>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
